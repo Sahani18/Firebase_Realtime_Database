@@ -1,4 +1,4 @@
-# Contact List
+# Contact App
 
 A new Flutter application.
 
